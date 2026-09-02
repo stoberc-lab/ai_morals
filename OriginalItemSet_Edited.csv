@@ -1,0 +1,127 @@
+item_code,item_num,block,principle_1,option_1,rating_1,rating_2,principle_2,option_2
+CE1_CP1,1,1,CE,You see a teenage boy chuckling at an amputee he passes by while on the subway.,3.4,3.6,CP,You see a boy setting a series of traps to kill stray cats in his neighborhood.
+F1_LO1,2,1,F,You see a professor giving a bad grade to a student just because he dislikes him.,3.7,2.8,LO,You see the US Ambassador joking in Great Britain about the stupidity of Americans.
+A1_S1,3,1,A,You see a woman spray painting'graffiti across the steps of the local courthouse.,3.3,3.4,S,You see a drunk elderly man offering to have oral sex with anyone in the bar.
+LI1_CE1,4,1,LI,You see a man blocking his wife from leaving home or interacting with others.,3.3,3.4,CE,You see a teenage boy chuckling at an amputee he passes by while on the subway.
+CP1_F1,5,1,CP,You see a boy setting a series of traps to kill stray cats in his neighborhood.,3.6,3.7,F,You see a professor giving a bad grade to a student just because he dislikes him.
+LO1_A1,6,1,LO,You see the US Ambassador joking in Great Britain about the stupidity of Americans.,2.8,3.3,A,You see a woman spray painting graffiti across the steps of the local courthouse.
+S1_LI1,7,1,S,You see a drunk elderly man offering to have oral sex with anyone in the bar.,3.4,3.3,LI,You see a man blocking his wife from leaving home or interacting with others.
+CE1_F1,8,1,CE,You see a teenage boy chuckling at an amputee he passes by while on the subway.,3.4,3.7,F,You see a professor giving a bad grade to a student just because he dislikes him.
+CP1_LO1,9,1,CP,You see a boy setting a series of traps to kill stray cats in his neighborhood.,3.6,2.8,LO,You see the US Ambassador joking in Great Britain about the stupidity of Americans.
+A1_LI1,10,1,A,You see a woman spray painting graffiti across the steps of the local courthouse.,3.3,3.3,LI,You see a man blocking his wife from leaving home or interacting with others.
+S1_CE1,11,1,S,You see a drunk elderly man offering to have oral sex with anyone in the bar.,3.4,3.4,CE,You see a teenage boy chuckling at an amputee he passes by while on the subway.
+LI1_F1,12,1,LI,You see a man blocking his wife from leaving home or interacting with others.,3.3,3.7,F,You see a professor giving a bad grade to a student just because he dislikes him.
+CP1_A1,13,1,CP,You see a boy setting a series of traps to kill stray cats in his neighborhood.,3.6,3.3,A,You see a woman spray painting graffiti across the steps of the local courthouse.
+LO1_S1,14,1,LO,You see the US Ambassador joking in Great Britain about the stupidity of Americans.,2.8,3.4,S,You see a drunk elderly man offering to have oral sex with anyone in the bar.
+LI1_CP1,15,1,LI,You see a man blocking his wife from leaving home or interacting with others.,3.3,3.6,CP,You see a boy setting a series of traps to kill stray cats in his neighborhood.
+F1_A1,16,1,F,You see a professor giving a bad grade to a student just because he dislikes him.,3.7,3.3,A,You see a woman spray painting graffiti across the steps of the local courthouse.
+CE1_LO1,17,1,CE,You see a teenage boy chuckling at an amputee he passes by while on the subway.,3.4,2.8,LO,You see the US Ambassador joking in Great Britain about the stupidity of Americans.
+S1_CP1,18,1,S,You see a drunk elderly man offering to have oral sex with anyone in the bar.,3.4,3.6,CP,You see a boy setting a series of traps to kill stray cats in his neighborhood.
+LO1_LI1,19,1,LO,You see the US Ambassador joking in Great Britain about the stupidity of Americans.,2.8,3.3,LI,You see a man blocking his wife from leaving home or interacting with others.
+A1_CE1,20,1,A,You see a woman spray painting graffiti across the steps of the local courthouse.,3.3,3.4,CE,You see a teenage boy chuckling at an amputee he passes by while on the subway.
+F1_S1,21,1,F,You see a professor giving a bad grade to a student just because he dislikes him.,3.7,3.4,S,You see a drunk elderly man offering to have oral sex with anyone in the bar.
+CE2_CP2,22,2,CE,You see a boy telling a woman that she looks just like her overweight bulldog.,3.3,3.3,CP,You see a boy throwing rocks at cows that are grazing in the local pasture.
+F2_LO2,23,2,F,You see a student copying a classmate's answer sheet on a makeup final exam ,3.4,2.5,LO,You see a former US General saying publicly he would never buy any American product.
+A2_S2,24,2,A,You see a staff member talking loudly and interrupting the mayor's speech to the public.,2.8,3.3,S,You see a man in a bar using his phone to watch people having sex with animals.
+LI2_CE2,25,2,LI,You see a man forbidding his wife to wear clothing that he has not first approved.,3.1,3.3,CE,You see a boy telling a woman that she looks just like her overweight bulldog.
+CP2_F2,26,2,CP,You see a boy throwing rocks at cows that are grazing in the local pasture.,3.3,3.4,F,You see a student copying a classmate's answer sheet on a makeup final exam 
+LO2_A2,27,2,LO,You see a former US General saying publicly he would never buy any American product.,2.5,2.8,A,You see a staff member talking loudly and interrupting the mayor's speech to the public.
+S2_LI2,28,2,S,You see a man in a bar using his phone to watch people having sex with animals.,3.3,3.1,LI,You see a man forbidding his wife to wear clothing that he has not first approved.
+CE2_F2,29,2,CE,You see a boy telling a woman that she looks just like her overweight bulldog.,3.3,3.4,F,You see a student copying a classmate's answer sheet on a makeup final exam 
+CP2_LO2,30,2,CP,You see a boy throwing rocks at cows that are grazing in the local pasture.,3.3,2.5,LO,You see a former US General saying publicly he would never buy any American product.
+A2_LI2,31,2,A,You see a staff member talking loudly and interrupting the mayor's speech to the public.,2.8,3.1,LI,You see a man forbidding his wife to wear clothing that he has not first approved.
+S2_CE2,32,2,S,You see a man in a bar using his phone to watch people having sex with animals.,3.3,3.3,CE,You see a boy telling a woman that she looks just like her overweight bulldog.
+LI2_F2,33,2,LI,You see a man forbidding his wife to wear clothing that he has not first approved.,3.1,3.4,F,You see a student copying a classmate's answer sheet on a makeup final exam 
+CP2_A2,34,2,CP,You see a boy throwing rocks at cows that are grazing in the local pasture.,3.3,2.8,A,You see a staff member talking loudly and interrupting the mayor's speech to the public.
+LO2_S2,35,2,LO,You see a former US General saying publicly he would never buy any American product.,2.5,3.3,S,You see a man in a bar using his phone to watch people having sex with animals.
+LI2_CP2,36,2,LI,You see a man forbidding his wife to wear clothing that he has not first approved.,3.1,3.3,CP,You see a boy throwing rocks at cows that are grazing in the local pasture.
+F2_A2,37,2,F,You see a student copying a classmate's answer sheet on a makeup final exam ,3.4,2.8,A,You see a staff member talking loudly and interrupting the mayor's speech to the public.
+CE2_LO2,38,2,CE,You see a boy telling a woman that she looks just like her overweight bulldog.,3.3,2.5,LO,You see a former US General saying publicly he would never buy any American product.
+S2_CP2,39,2,S,You see a man in a bar using his phone to watch people having sex with animals.,3.3,3.3,CP,You see a boy throwing rocks at cows that are grazing in the local pasture.
+LO2_LI2,40,2,LO,You see a former US General saying publicly he would never buy any American product.,2.5,3.1,LI,You see a man forbidding his wife to wear clothing that he has not first approved.
+A2_CE2,41,2,A,You see a staff member talking loudly and interrupting the mayor's speech to the public.,2.8,3.3,CE,You see a boy telling a woman that she looks just like her overweight bulldog.
+F2_S2,42,2,F,You see a student copying a classmate's answer sheet on a makeup final exam ,3.4,3.3,S,You see a man in a bar using his phone to watch people having sex with animals.
+CE3_CP3,43,3,CE,You see a woman commenting out loud about how fat another woman looks in her jeans.,3,3.2,CP,You see a woman throwing her cat across the room for scratching the furniture.
+F3_LO3,44,3,F,You see a runner taking a shortcut on the course during the marathon in order to win.,3.4,2,LO,You see an employee joking with competitors about how bad his company did last year.
+A3_S3,45,3,A,You see a girl ignoring her father's orders by taking the car after her curfew.,2.5,3.3,S,You see a woman having intimate relations with a recently deceased loved one.
+LI3_CE3,46,3,LI,You see a man telling his fiancée that she has to switch to his political party.,2.9,3,CE,You see a woman commenting out loud about how fat another woman looks in her jeans.
+CP3_F3,47,3,CP,You see a woman throwing her cat across the room for scratching the furniture.,3.2,3.4,F,You see a runner taking a shortcut on the course during the marathon in order to win.
+LO3_A3,48,3,LO,You see an employee joking with competitors about how bad his company did last year.,2,2.5,A,You see a girl ignoring her father's orders by taking the car after her curfew.
+S3_LI3,49,3,S,You see a woman having intimate relations with a recently deceased loved one.,3.3,2.9,LI,You see a man telling his fiancée that she has to switch to his political party.
+CE3_F3,50,3,CE,You see a woman commenting out loud about how fat another woman looks in her jeans.,3,3.4,F,You see a runner taking a shortcut on the course during the marathon in order to win.
+CP3_LO3,51,3,CP,You see a woman throwing her cat across the room for scratching the furniture.,3.2,2,LO,You see an employee joking with competitors about how bad his company did last year.
+A3_LI3,52,3,A,You see a girl ignoring her father's orders by taking the car after her curfew.,2.5,2.9,LI,You see a man telling his fiancée that she has to switch to his political party.
+S3_CE3,53,3,S,You see a woman having intimate relations with a recently deceased loved one.,3.3,3,CE,You see a woman commenting out loud about how fat another woman looks in her jeans.
+LI3_F3,54,3,LI,You see a man telling his fiancée that she has to switch to his political party.,2.9,3.4,F,You see a runner taking a shortcut on the course during the marathon in order to win.
+CP3_A3,55,3,CP,You see a woman throwing her cat across the room for scratching the furniture.,3.2,2.5,A,You see a girl ignoring her father's orders by taking the car after her curfew.
+LO3_S3,56,3,LO,You see an employee joking with competitors about how bad his company did last year.,2,3.3,S,You see a woman having intimate relations with a recently deceased loved one.
+LI3_CP3,57,3,LI,You see a man telling his fiancée that she has to switch to his political party.,2.9,3.2,CP,You see a woman throwing her cat across the room for scratching the furniture.
+F3_A3,58,3,F,You see a runner taking a shortcut on the course during the marathon in order to win.,3.4,2.5,A,You see a girl ignoring her father's orders by taking the car after her curfew.
+CE3_LO3,59,3,CE,You see a woman commenting out loud about how fat another woman looks in her jeans.,3,2,LO,You see an employee joking with competitors about how bad his company did last year.
+S3_CP3,60,3,S,You see a woman having intimate relations with a recently deceased loved one.,3.3,3.2,CP,You see a woman throwing her cat across the room for scratching the furniture.
+LO3_LI3,61,3,LO,You see an employee joking with competitors about how bad his company did last year.,2,2.9,LI,You see a man telling his fiancée that she has to switch to his political party.
+A3_CE3,62,3,A,You see a girl ignoring her father's orders by taking the car after her curfew.,2.5,3,CE,You see a woman commenting out loud about how fat another woman looks in her jeans.
+F3_S3,63,3,F,You see a runner taking a shortcut on the course during the marathon in order to win.,3.4,3.3,S,You see a woman having intimate relations with a recently deceased loved one.
+CE4_CP4,64,4,CE,You see a man quickly canceling a blind date as soon as he sees the woman.,3,3.2,CP,You see a woman swerving her car in order to intentionally run over a squirrel.
+F4_LO4,65,4,F,You see someone cheating in a card game while playing with a group of strangers.,2.6,1.9,LO,You see the coach's wife sponsoring a bake sale for her husband's rival team
+A4_S4,66,4,A,You see a teenage girl coming home late and ignoring her parents' strict curfew.,2.3,3.2,S,You see an employee at a morgue eating his pepperoni pizza off of a dead body.
+LI4_CE4,67,4,LI,You see a man telling his girlfriend that she must convert to his religion.,2.5,3,CE,You see a man quickly canceling a blind date as soon as he sees the woman.
+CP4_F4,68,4,CP,You see a woman swerving her car in order to intentionally run over a squirrel.,3.2,2.6,F,You see someone cheating in a card game while playing with a group of strangers.
+LO4_A4,69,4,LO,You see the coach's wife sponsoring a bake sale for her husband's rival team,1.9,2.3,A,You see a teenage girl coming home late and ignoring her parents' strict curfew.
+S4_LI4,70,4,S,You see an employee at a morgue eating his pepperoni pizza off of a dead body.,3.2,2.5,LI,You see a man telling his girlfriend that she must convert to his religion.
+CE4_F4,71,4,CE,You see a man quickly canceling a blind date as soon as he sees the woman.,3,2.6,F,You see someone cheating in a card game while playing with a group of strangers.
+CP4_LO4,72,4,CP,You see a woman swerving her car in order to intentionally run over a squirrel.,3.2,1.9,LO,You see the coach's wife sponsoring a bake sale for her husband's rival team
+A4_LI4,73,4,A,You see a teenage girl coming home late and ignoring her parents' strict curfew.,2.3,2.5,LI,You see a man telling his girlfriend that she must convert to his religion.
+S4_CE4,74,4,S,You see an employee at a morgue eating his pepperoni pizza off of a dead body.,3.2,3,CE,You see a man quickly canceling a blind date as soon as he sees the woman.
+LI4_F4,75,4,LI,You see a man telling his girlfriend that she must convert to his religion.,2.5,2.6,F,You see someone cheating in a card game while playing with a group of strangers.
+CP4_A4,76,4,CP,You see a woman swerving her car in order to intentionally run over a squirrel.,3.2,2.3,A,You see a teenage girl coming home late and ignoring her parents' strict curfew.
+LO4_S4,77,4,LO,You see the coach's wife sponsoring a bake sale for her husband's rival team,1.9,3.2,S,You see an employee at a morgue eating his pepperoni pizza off of a dead body.
+LI4_CP4,78,4,LI,You see a man telling his girlfriend that she must convert to his religion.,2.5,3.2,CP,You see a woman swerving her car in order to intentionally run over a squirrel.
+F4_A4,79,4,F,You see someone cheating in a card game while playing with a group of strangers.,2.6,2.3,A,You see a teenage girl coming home late and ignoring her parents' strict curfew.
+CE4_LO4,80,4,CE,You see a man quickly canceling a blind date as soon as he sees the woman.,3,1.9,LO,You see the coach's wife sponsoring a bake sale for her husband's rival team
+S4_CP4,81,4,S,You see an employee at a morgue eating his pepperoni pizza off of a dead body.,3.2,3.2,CP,You see a woman swerving her car in order to intentionally run over a squirrel.
+LO4_LI4,82,4,LO,You see the coach's wife sponsoring a bake sale for her husband's rival team,1.9,2.5,LI,You see a man telling his girlfriend that she must convert to his religion.
+A4_CE4,83,4,A,You see a teenage girl coming home late and ignoring her parents' strict curfew.,2.3,3,CE,You see a man quickly canceling a blind date as soon as he sees the woman.
+F4_S4,84,4,F,You see someone cheating in a card game while playing with a group of strangers.,2.6,3.2,S,You see an employee at a morgue eating his pepperoni pizza off of a dead body.
+CE5_CP5,85,5,CE,You see a girl laughing when she realizes her friend's dad is the janitor.,2.9,2.9,CP,You see a man lashing his pony with a whip for breaking loose from its pen.
+F5_LO5,86,5,F,You see a soccer player pretending to be seriously fouled by an opposing player.,2.5,1.8,LO,You see a coach celebrating with the opposing team's players who just won the game.
+A5_S5,87,5,A,You see a man turn his back and walk away while his boss questions his work.,2.1,3,S,You see a man having sex with a frozen chicken before cooking it for dinner.
+LI5_CE5,88,5,LI,You see a mother telling her son that she is going to choose all of his friends.,2.2,2.9,CE,You see a girl laughing when she realizes her friend's dad is the janitor.
+CP5_F5,89,5,CP,You see a man lashing his pony with a whip for breaking loose from its pen.,2.9,2.5,F,You see a soccer player pretending to be seriously fouled by an opposing player.
+LO5_A5,90,5,LO,You see a coach celebrating with the opposing team's players who just won the game.,1.8,2.1,A,You see a man turn his back and walk away while his boss questions his work.
+S5_LI5,91,5,S,You see a man having sex with a frozen chicken before cooking it for dinner.,3,2.2,LI,You see a mother telling her son that she is going to choose all of his friends.
+CE5_F5,92,5,CE,You see a girl laughing when she realizes her friend's dad is the janitor.,2.9,2.5,F,You see a soccer player pretending to be seriously fouled by an opposing player.
+CP5_LO5,93,5,CP,You see a man lashing his pony with a whip for breaking loose from its pen.,2.9,1.8,LO,You see a coach celebrating with the opposing team's players who just won the game.
+A5_LI5,94,5,A,You see a man turn his back and walk away while his boss questions his work.,2.1,2.2,LI,You see a mother telling her son that she is going to choose all of his friends.
+S5_CE5,95,5,S,You see a man having sex with a frozen chicken before cooking it for dinner.,3,2.9,CE,You see a girl laughing when she realizes her friend's dad is the janitor.
+LI5_F5,96,5,LI,You see a mother telling her son that she is going to choose all of his friends.,2.2,2.5,F,You see a soccer player pretending to be seriously fouled by an opposing player.
+CP5_A5,97,5,CP,You see a man lashing his pony with a whip for breaking loose from its pen.,2.9,2.1,A,You see a man turn his back and walk away while his boss questions his work.
+LO5_S5,98,5,LO,You see a coach celebrating with the opposing team's players who just won the game.,1.8,3,S,You see a man having sex with a frozen chicken before cooking it for dinner.
+LI5_CP5,99,5,LI,You see a mother telling her son that she is going to choose all of his friends.,2.2,2.9,CP,You see a man lashing his pony with a whip for breaking loose from its pen.
+F5_A5,100,5,F,You see a soccer player pretending to be seriously fouled by an opposing player.,2.5,2.1,A,You see a man turn his back and walk away while his boss questions his work.
+CE5_LO5,101,5,CE,You see a girl laughing when she realizes her friend's dad is the janitor.,2.9,1.8,LO,You see a coach celebrating with the opposing team's players who just won the game.
+S5_CP5,102,5,S,You see a man having sex with a frozen chicken before cooking it for dinner.,3,2.9,CP,You see a man lashing his pony with a whip for breaking loose from its pen.
+LO5_LI5,103,5,LO,You see a coach celebrating with the opposing team's players who just won the game.,1.8,2.2,LI,You see a mother telling her son that she is going to choose all of his friends.
+A5_CE5,104,5,A,You see a man turn his back and walk away while his boss questions his work.,2.1,2.9,CE,You see a girl laughing when she realizes her friend's dad is the janitor.
+F5_S5,105,5,F,You see a soccer player pretending to be seriously fouled by an opposing player.,2.5,3,S,You see a man having sex with a frozen chicken before cooking it for dinner.
+CE6_CP6,106,6,CE,You see a girl laughing at another student forgetting her lines at a school play.,2.4,2.7,CP,You see a teacher hitting a student's hand with a ruler for falling asleep in class.
+F6_LO6,107,6,F,You see a tenant bribing a landlord to be the first to get their apartment repainted.,2.2,1.6,LO,You see a mayor saying that the neighbouring town is a much better town.
+A6_S6,108,6,A,You see a woman refusing to stand when the judge walks into the courtroom.,2,2.6,S,You see a homosexual in a gay bar offering sex to anyone who buys him a drink.
+LI6_CE6,109,6,LI,You see a father requiring his son to become a commercial airline pilot like him.,1.9,2.4,CE,You see a girl laughing at another student forgetting her lines at a school play.
+CP6_F6,110,6,CP,You see a teacher hitting a student's hand with a ruler for falling asleep in class.,2.7,2.2,F,You see a tenant bribing a landlord to be the first to get their apartment repainted.
+LO6_A6,111,6,LO,You see a mayor saying that the neighbouring town is a much better town.,1.6,2,A,You see a woman refusing to stand when the judge walks into the courtroom.
+S6_LI6,112,6,S,You see a homosexual in a gay bar offering sex to anyone who buys him a drink.,2.6,1.9,LI,You see a father requiring his son to become a commercial airline pilot like him.
+CE6_F6,113,6,CE,You see a girl laughing at another student forgetting her lines at a school play.,2.4,2.2,F,You see a tenant bribing a landlord to be the first to get their apartment repainted.
+CP6_LO6,114,6,CP,You see a teacher hitting a student's hand with a ruler for falling asleep in class.,2.7,1.6,LO,You see a mayor saying that the neighbouring town is a much better town.
+A6_LI6,115,6,A,You see a woman refusing to stand when the judge walks into the courtroom.,2,1.9,LI,You see a father requiring his son to become a commercial airline pilot like him.
+S6_CE6,116,6,S,You see a homosexual in a gay bar offering sex to anyone who buys him a drink.,2.6,2.4,CE,You see a girl laughing at another student forgetting her lines at a school play.
+LI6_F6,117,6,LI,You see a father requiring his son to become a commercial airline pilot like him.,1.9,2.2,F,You see a tenant bribing a landlord to be the first to get their apartment repainted.
+CP6_A6,118,6,CP,You see a teacher hitting a student's hand with a ruler for falling asleep in class.,2.7,2,A,You see a woman refusing to stand when the judge walks into the courtroom.
+LO6_S6,119,6,LO,You see a mayor saying that the neighbouring town is a much better town.,1.6,2.6,S,You see a homosexual in a gay bar offering sex to anyone who buys him a drink.
+LI6_CP6,120,6,LI,You see a father requiring his son to become a commercial airline pilot like him.,1.9,2.7,CP,You see a teacher hitting a student's hand with a ruler for falling asleep in class.
+F6_A6,121,6,F,You see a tenant bribing a landlord to be the first to get their apartment repainted.,2.2,2,A,You see a woman refusing to stand when the judge walks into the courtroom.
+CE6_LO6,122,6,CE,You see a girl laughing at another student forgetting her lines at a school play.,2.4,1.6,LO,You see a mayor saying that the neighbouring town is a much better town.
+S6_CP6,123,6,S,You see a homosexual in a gay bar offering sex to anyone who buys him a drink.,2.6,2.7,CP,You see a teacher hitting a student's hand with a ruler for falling asleep in class.
+LO6_LI6,124,6,LO,You see a mayor saying that the neighbouring town is a much better town.,1.6,1.9,LI,You see a father requiring his son to become a commercial airline pilot like him.
+A6_CE6,125,6,A,You see a woman refusing to stand when the judge walks into the courtroom.,2,2.4,CE,You see a girl laughing at another student forgetting her lines at a school play.
+F6_S6,126,6,F,You see a tenant bribing a landlord to be the first to get their apartment repainted.,2.2,2.4,S,You see a homosexual in a gay bar offering sex to anyone who buys him a drink.
