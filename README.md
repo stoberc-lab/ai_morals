@@ -1,4 +1,5 @@
 # Repository Structure
+```
 |-- IndividualItems_Edited.csv         # Input data file
 |-- llm_elicitation/                   # Python processing scripts
 │   -- *.py
@@ -6,7 +7,7 @@
 │   -- *.csv
 |-- transitivity_test/                 # R scripts for statistical testing
 │   -- *.r
-
+```
 
 # Replication Steps
 ## Step 1: Run the Python scripts for each of the LLMs
