@@ -1,1 +1,4 @@
-# ai_morals
+# Input Files
+# LLM Elicitation
+# Output Files
+# Transitivity
