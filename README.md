@@ -18,6 +18,24 @@ The outputs for each of the LLMs can be found under the "output" folder.
 ## Step 3: Test the transitivity models against the outputs
 Use the R scripts in "transitivity_test". The scripts will read in the LLM responses and test them against the transitivity models.
 These files test whether a set of pairwise choice proabilities is consistent with a transitive ordering. 
-Three models are implemented, one per script: 
+Each script reads a CSV file with five columns. 
 
--. 
+Three models are implemented, one per script: 
+- `WUM_analysis_function.R` - Weak Utility Model (WUM)
+- `HCM_analysis_function.R` - High Certainty Model (HCM)
+- `G-RUM_analysis_function.R` - General Random Utility Model (G-RUM)
+
+The first two ask whether one fixed ordering can account for the choices. The third asks whether the choices could have come from sampling across several orderings. 
+
+## Data Format 
+- `block` : Groups the comparisons that are tested together. One row of output per block (e.g., 1,2,...6)
+- `left` : The alternative presented first (e.g., cp, f, ... a)
+- `right` : The alternative presented second (e.g., a, cp, ... f)
+- `prob_1` : Probability assigned to `left`
+- `prob_2` : Probability assigned to `right`
+
+Probabilities are normalized within each row as `prob_1 / (prob_1 + prob_2)`, so raw values can be passed in as they come out of the LLMs. 
+The normalized value is read as P(`left` chosen over `right`) - in our case, the probability that the model judged the left situation to be worse violation. 
+
+A block should contain all 21 pairs of the seven alternatives. Pairs can be stored in either direction. `get_p()` finds the pair in the order it was stored and flips the probability when it finds the reverse, so counterbalanced pairs need no reshaping before they are read in. Note that each file should contain a single presentation order. To analyze the original and counterbalanced orders separately, split the CSV file first. 
+
