@@ -22,14 +22,8 @@ The outputs for each of the LLMs can be found under the "output" folder.
 ## Step 3: Test the transitivity models against the outputs  
 Use the R scripts in "transitivity_test". The scripts will read in the LLM responses and test them against the transitivity models.  
 These files test whether a set of pairwise choice proabilities is consistent with a transitive ordering. 
-Each script reads a CSV file with five columns. 
-
-Three models are implemented, one per script: 
-- `WUM_analysis_function.R` - Weak Utility Model (WUM)
-- `HCM_analysis_function.R` - High Certainty Model (HCM)
-- `G-RUM_analysis_function.R` - General Random Utility Model (G-RUM)
-
 The WUM and HCM test whether one fixed ordering can account for the choices. G-RUM tests whether the choices could have come from sampling across several orderings. 
+Each script reads a CSV file with five columns. 
 
 ## Data Format 
 - `block` : Groups the comparisons that are tested together. One row of output per block (e.g., 1,2,...6)
