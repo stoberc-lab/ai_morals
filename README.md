@@ -39,6 +39,9 @@ A block should contain all 21 pairs of the seven alternatives. Pairs can be stor
 
 ## What Each Script Does 
 ### `WUM_analysis_function.R`
+- `prepare_wum_data(data)` normalizes each row and reshapes the file so that one row is one block and one column is one pair (named `left_right`).
+- `test_wum(df_wide)` builds all 35 triads of the seven alternatives and check each one against the threshold. A triad is flagged when P(A>B) >= 0.5 and P(B > C) >= 0.5 but P(A > C) < 0.5 or when the same patter appears in the reversed direction. Each triad gets 0/1 column, and `WUM_check_total` is 1 only when no triad was flagged.
+- `add_preference_rank(raw_df, wum_df)` derives the ordering. Each alternative earns a point for every pairwise comparison it wins. Points are summed within a block, and alternatives are ordered from most to least wins. Blocks that violate the test are left with a missing rank, since no single ordering describes them.
 
 ### `HCM_analysis_function.R`
 
