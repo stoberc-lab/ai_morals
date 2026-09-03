@@ -44,5 +44,7 @@ A block should contain all 21 pairs of the seven alternatives. Pairs can be stor
 - `add_preference_rank(raw_df, wum_df)` derives the ordering. Each alternative earns a point for every pairwise comparison it wins. Points are summed within a block, and alternatives are ordered from most to least wins. Blocks that violate the test are left with a missing rank, since no single ordering describes them.
 
 ### `HCM_analysis_function.R`
+- `prepare_hcm_data(data)` runs exactly as WUM.
+- `test_hcm(df_wide)` builds the same 35 triads and evaluates against the 0.9 threshold. However, unlike WUM this asks whetehr the three probabilities in a triad are consistent with one of the six possible orderings at 0.9 or above. All six patterns are check, unlike the WUM. `HCM_check_total` is 1 when all 35 triads are satisfied and 0 when any is not.
 
 ### `G-RUM_analysis_function.R`
