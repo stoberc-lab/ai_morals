@@ -37,3 +37,9 @@ The normalized value is read as P(`left` chosen over `right`) - in our case, the
 
 A block should contain all 21 pairs of the seven alternatives. Pairs can be stored in either direction. `get_p()` finds the pair in the order it was stored and flips the probability when it finds the reverse, so counterbalanced pairs need no reshaping before they are read in. Note that each file should contain a single presentation order. To analyze the original and counterbalanced orders separately, split the CSV file first. 
 
+## What Each Script Does 
+### `WUM_analysis_function.R`
+
+### `HCM_analysis_function.R`
+
+### `G-RUM_analysis_function.R`
