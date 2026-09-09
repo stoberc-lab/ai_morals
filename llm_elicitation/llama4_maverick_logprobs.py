@@ -264,7 +264,6 @@ for morals_comparison in tqdm(morals_comparisons):
         else:
             print(f"QUERY_API is False. Not querying API.")
             print(f"Output file name: '{output_file_name}'")
-    break
 
 # END ELLICATION
 
