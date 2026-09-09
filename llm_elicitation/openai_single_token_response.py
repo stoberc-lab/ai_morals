@@ -143,6 +143,7 @@ for morals_comparison in tqdm(morals_comparisons):
                 'item': morals_comparison['item_num'],
                 'block': morals_comparison['block'],
                 'comparison': morals_comparison['item_code'],
+                'prompt_type': prompt["order"],
                 'principle 1': morals_comparison['principle_1'],
                 'principle 2': morals_comparison['principle_2'],
                 'vignette 1': morals_comparison['option_1'],
