@@ -186,7 +186,7 @@ for morals_comparison in tqdm(morals_comparisons):
 
 
 # BEGIN SUMMARY OUTPUT
-csv_output_file_name = f"{output_dir}/summary.csv"
+csv_output_file_name = f"{output_dir}/{DATE}_summary.csv"
 with open(csv_output_file_name, "w", newline="") as f:
     w = DictWriter(f, output_csv_data[0].keys())
     w.writeheader()
