@@ -52,6 +52,13 @@ Each script reads a CSV file with five columns.
 - `test_hcm(df_wide)` builds the same 35 triads and evaluates against the 0.9 threshold. However, unlike WUM this asks whetehr the three probabilities in a triad are consistent with one of the six possible orderings at 0.9 or above. All six patterns are check, unlike the WUM. `HCM_check_total` is 1 when all 35 triads are satisfied and 0 when any is not.
 
 `G-RUM_analysis_function.R`
+Tests the General Random Utility Model. Since the triangular inequalities do not fully account the linear ordering polytope for seven alternatives, adherence is tested directly against the polytope's vertices. 
+- `generate_polytope_vertices()` enumerates all 5,040 linear orderings of seven alternatives and converts each into a 21-dimensional binary vector recording the winner of every pairwise comparison. These vectors are the vertices of the polytope. 
+- `check_sample_in_polytope()` takes an observed 21-dimensional probability vector and uses linear programming to ask whether it can be written as a convex combination of those vertices. Returns TRUE if a feasible solution exists (means the block is consistent with G-RUM), and FALSE otherwise. 
 
 ### Output
 The output files with the transitivity test results can be found in the "transitivity_result" folder.
+- `HCM` and `WUM` each contain one sheet per model per condition. (`{Model}_{og|cb|agg}` `og` = original item order, `cb` = counterbalanced order, `agg` = choice aggregated across both item orders and across blocks)
+- `{Transitivity_test}_check_total` is 1 when model satisfies axiom on every triad
+- `{Transitivity_test}_*` columns gives the per-triple result
+- `G-RUM_Adherence` has a single sheet in which each row is one model-condition-block, and `inside_Polytope` is TRUE when choice proportions fall inside the G-RUM Polytope. 
